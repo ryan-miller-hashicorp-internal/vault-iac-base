@@ -1,0 +1,10 @@
+# Terraform generated files
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.terraform/
+crash.log
+
+# Editor backups
+*.swp
+*~
